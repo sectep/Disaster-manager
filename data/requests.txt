@@ -1,0 +1,36 @@
+Id: D104
+Disaster: FLOOD
+City: Dnipro
+Casualty: 420
+Priority: 9
+
+
+Id: D106
+Disaster: WAR
+City: Zaporizhzhia
+Casualty: 1200
+Priority: 10
+
+Id: D107
+Disaster: LANDSLIDE
+City: Chernivtsi
+Casualty: 35
+Priority: 5
+
+Id: D108
+Disaster: WAR
+City: Mykolaiv
+Casualty: 610
+Priority: 10
+
+Id: D109
+Disaster: EARTHQUAKE
+City: Ivano-Frankivsk
+Casualty: 210
+Priority: 8
+
+Id: D110
+Disaster: STORM
+City: Poltava
+Casualty: 15
+Priority: 5

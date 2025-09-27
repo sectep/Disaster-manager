@@ -1,0 +1,25 @@
+
+
+
+Id: R104
+Resource: shelter
+Quantity: 50
+City: Dnipro
+
+Id: R105
+Resource: clothing
+Quantity: 800
+City: Chernihiv
+
+
+Id: R107
+Resource: food
+Quantity: 150
+City: Vinnytsia
+
+
+
+Id: R110
+Resource: medical
+Quantity: 900
+City: Uzhhorod
